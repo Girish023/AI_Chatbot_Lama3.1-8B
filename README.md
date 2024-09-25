@@ -1,4 +1,4 @@
-# AI_Chatbot_Lama3.1-8B
+# AI_Chatbot_llama3-8b-8192
 
 A simple responsive chatbot application built with Flask for the backend and React.js for the frontend.
 
